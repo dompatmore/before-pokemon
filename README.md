@@ -30,4 +30,5 @@ You will need to demonstrate the above, plus:
 You will need to demonstrate the above, plus:
 
 - Your code can handle last-minute changes or additional requests.
+- As a user, I can determine the number of rounds I want to play
 - In the win-loss stat, the game displays the option most used by the player.
